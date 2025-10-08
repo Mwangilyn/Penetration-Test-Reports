@@ -1,4 +1,4 @@
-# Metasploitable 3 — Penetration Test Report (GitHub-friendly)
+# Metasploitable 3 — Penetration Test Report 
 *Prepared by:* Mwangi CyberSecurity Company LTD.  
 *Date:* September 21, 2025  
 *Confidentiality:* This document is confidential and intended for the report owner.
